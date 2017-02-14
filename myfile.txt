@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 hjnjnjn
+=======
+<<<<<<< HEAD
+asdfd vgvgh
+=======
+hjnjnjn
+third
+>>>>>>> third
+>>>>>>> master

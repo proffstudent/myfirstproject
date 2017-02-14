@@ -1,3 +1,16 @@
+
+kyyyyy
+
 jhhjhj
 jhj
 kjkjl
+<<<<<<< HEAD
+=======
+
+
+jhjjn
+
+hbjhnjn
+
+ggfg
+>>>>>>> master
